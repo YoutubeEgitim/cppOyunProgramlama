@@ -1,0 +1,1 @@
+﻿C:\Users\kayhan\Desktop\sfmlyeni\projeler\04 - Vektor ve GUI\01-IMGUI\sfml_Imgui\sfml_Imgui.vcxproj(70,5): error MSB4019: The imported project "C:\Users\kayhan\Desktop\sfmlyeni\SFML.props" was not found. Confirm that the expression in the Import declaration "..\..\..\..\SFML.props" is correct, and that the file exists on disk.
